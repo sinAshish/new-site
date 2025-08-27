@@ -123,10 +123,10 @@ disqus_shortname: sinashish # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@ashish_sinha/
-  - name: Google Blog
-    posts:
-      - url: https://medium.com/good-audience/getting-a-ml-research-internship-cca6250605f1
-        published_date: 2019-03-3
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://medium.com/good-audience/getting-a-ml-research-internship-cca6250605f1
+  #       published_date: 2019-03-3
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -326,7 +326,7 @@ max_author_limit: 5 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -378,7 +378,7 @@ enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
-enable_google_verification: true # enables google site verification
+enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
@@ -398,7 +398,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # The integrity hash is used to ensure that the library is not tampered with.
 # Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
 third_party_libraries:
-  download: true # if true, download the versions of the libraries specified below and use the downloaded files
+  download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
       css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
