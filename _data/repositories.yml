@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sinashish
+  - frankzhangdong
+  - kabhishe
+  - ppolon
+  - jose-dolz
+  - binbin-xu
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sinashish/Tree-Diffusion
+  - sinashish/DermSynth3D
+  - sinashish/Multi-Scale-Attention
+  - sinashish/NALU-Keras
+

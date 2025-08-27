@@ -1,5 +1,8 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a researcher at [Huawei’s Noah’s Ark Lab](https://dev3.noahlab.com.hk) in the Embodied AI team.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie at the intersection of computer vision and machine learning, especially it's application in solving meaningul problems in healthcare and life sciences. I am interested in building intelligent and interpretable systems that assist humans in their daily lives.
+
+I hold an MSc (thesis) in Computer Science from Simon Fraser University, where I worked with [Prof. Ghassan Hamarneh](https://www.medicalimageanalysis.com/about/ghassans-bio) and a Bachelor’s in Materials Science from [Indian Institute of Technology Roorkee (IITR)](https://www.iitr.ac.in/). In the past, I've worked as a Risk Analyst at [Wells Fargo](https://wellsfargo.com/), as a Research Engineer at [Preferred Networks](https://preferred.jp/en/) in the Bio Team, and as a Research Intern with [Prof. Jonghyun Choi](https://ppolon.github.io) and [Prof. Jose Dolz](https://josedolz.github.io).
+
+If you are interested in these topics, please feel free to [reach out to me](mailto:ashishsinha108@gmail.com).

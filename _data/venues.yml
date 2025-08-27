@@ -1,9 +1,16 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"MICCAI":
+  url: https://conferences.miccai.org/2025/en/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MedIA":
+  url: https://www.sciencedirect.com/journal/medical-image-analysis
 
-"Vision":
+"CVPR":
   color: "#009f36"
+  url: https://cvpr.thecvf.com/
+
+"NeurIPS":
+  url: https://neurips.cc/
+
+"CoRL":
+  url: https://www.corl.org/
