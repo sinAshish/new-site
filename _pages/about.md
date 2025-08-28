@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a> CV/ML Researcher
+# subtitle: <a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a> CV/ML Researcher
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>CV/ML Researcher, <a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a></p>
     <p>Toronto, Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
