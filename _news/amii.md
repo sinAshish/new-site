@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-Starting as Machine Learning Resident at [Amii](https://amii.ca) 
+Starting as Machine Learning Resident at [Amii](https://amii.ca) :tada: :man_technologist: 

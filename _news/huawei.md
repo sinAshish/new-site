@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as ML Researcher at Huawei Noah's Ark Lab, Toronto
+Started as ML Researcher at [Huawei Noah's Ark Lab, Toronto](https://www.huawei.com/ca/) :tada: :man_technologist:  
