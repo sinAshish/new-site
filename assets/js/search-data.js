@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "For up-to-date list. Check my [Google-Scholar](https://scholar.google.com/citations?user=9JNZpoQAAAAJ&amp;hl=en).",
+          description: "For up-to-date list. Check my Google Scholar page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/new-site/publications/";
@@ -33,8 +33,8 @@ ninja.data = [{
         },{id: "news-started-as-ml-researcher-at-huawei-noah-s-ark-lab-toronto",
           title: 'Started as ML Researcher at Huawei Noah’s Ark Lab, Toronto',
           description: "",
-          section: "News",},{id: "news-unpose-is-accepted-to-corl-25",
-          title: 'UnPose is accepted to CoRL ‘25',
+          section: "News",},{id: "news-unpose-is-accepted-to-corl-25-tada",
+          title: 'UnPose is accepted to CoRL ‘25 :tada:',
           description: "",
           section: "News",},{id: "news-starting-as-machine-learning-resident-at-amii",
           title: 'Starting as Machine Learning Resident at Amii',
