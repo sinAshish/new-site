@@ -9,7 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>CV/ML Researcher, <a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a></p>
+    <p>CV/ML Researcher</p>
+    <p><a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a></p>
     <p>Toronto, Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,11 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I am currently a researcher at [Huawei’s Noah’s Ark Lab](https://dev3.noahlab.com.hk) in the Embodied AI team.
 
 My research interests lie at the intersection of computer vision and machine learning, especially it's application in solving meaningul problems in healthcare and life sciences. I am interested in building intelligent and interpretable systems that assist humans in their daily lives.
 
-I hold an MSc (thesis) in Computer Science from Simon Fraser University, where I worked with [Prof. Ghassan Hamarneh](https://www.medicalimageanalysis.com/about/ghassans-bio) and a Bachelor’s in Materials Science from [Indian Institute of Technology Roorkee (IITR)](https://www.iitr.ac.in/). In the past, I've worked as a Risk Analyst at [Wells Fargo](https://wellsfargo.com/), as a Research Engineer at [Preferred Networks](https://preferred.jp/en/) in the Bio Team, and as a Research Intern with [Prof. Jonghyun Choi](https://ppolon.github.io) and [Prof. Jose Dolz](https://josedolz.github.io).
+I hold an MSc (thesis) in Computer Science from [Simon Fraser University](https://sfu.ca), where I worked with [Prof. Ghassan Hamarneh](https://www.medicalimageanalysis.com/about/ghassans-bio) and a Bachelor’s in Materials Science from [Indian Institute of Technology Roorkee (IITR)](https://www.iitr.ac.in/). In the past, I've worked as a Risk Analyst at [Wells Fargo](https://wellsfargo.com/), as a Research Engineer at [Preferred Networks](https://preferred.jp/en/) in the Bio Team, and as a Research Intern with [Prof. Jonghyun Choi](https://ppolon.github.io) and [Prof. Jose Dolz](https://josedolz.github.io).
 
 If you are interested in these topics, please feel free to [reach out to me](mailto:ashishsinha108@gmail.com).
