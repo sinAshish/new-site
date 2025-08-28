@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "For up-to-date list. Check my Google Scholar page.",
+          description: "For up-to-date list. Check my Google Scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/new-site/publications/";
@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/new-site/cv/";
           },
-        },{id: "news-started-as-ml-researcher-at-huawei-noah-s-ark-lab-toronto",
-          title: 'Started as ML Researcher at Huawei Noah’s Ark Lab, Toronto',
+        },{id: "news-started-as-ml-researcher-at-huawei-noah-s-ark-lab-toronto-tada-man-technologist",
+          title: 'Started as ML Researcher at Huawei Noah’s Ark Lab, Toronto :tada: :man_technologist:',
           description: "",
-          section: "News",},{id: "news-unpose-is-accepted-to-corl-25-tada",
-          title: 'UnPose is accepted to CoRL ‘25 :tada:',
+          section: "News",},{id: "news-unpose-is-accepted-to-corl-25-tada-tada",
+          title: 'UnPose is accepted to CoRL ‘25 :tada: :tada:',
           description: "",
-          section: "News",},{id: "news-starting-as-machine-learning-resident-at-amii",
-          title: 'Starting as Machine Learning Resident at Amii',
+          section: "News",},{id: "news-starting-as-machine-learning-resident-at-amii-tada-man-technologist",
+          title: 'Starting as Machine Learning Resident at Amii :tada: :man_technologist:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
