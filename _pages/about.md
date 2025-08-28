@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>CV/ML Researcher
+subtitle: <a href='https://dev3.noahlab.com.hk'>Huawei’s Noah’s Ark Lab</a> CV/ML Researcher
 
 profile:
   align: right

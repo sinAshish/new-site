@@ -1,5 +1,5 @@
 
-I am currently a researcher at [Huawei’s Noah’s Ark Lab](https://dev3.noahlab.com.hk) in the Embodied AI team.
+I am currently a Researcher at [Huawei’s Noah’s Ark Lab](https://dev3.noahlab.com.hk) in the Embodied AI team.
 
 My research interests lie at the intersection of computer vision and machine learning, especially it's application in solving meaningul problems in healthcare and life sciences. I am interested in building intelligent and interpretable systems that assist humans in their daily lives.
 
